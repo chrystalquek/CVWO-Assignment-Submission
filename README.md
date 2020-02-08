@@ -1,4 +1,4 @@
-# CVWO Mid Term Assignment
+# CVWO Assignment
 
 Name: Chrystal Quek Wan Qi
 
